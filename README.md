@@ -26,8 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/feZqVhM.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-The gif might be too big for github README to display. Please use the link below.
-[Link](https://i.imgur.com/feZqVhM.gif) 
+The gif might be too big for github README to display. Please use this [Link](https://i.imgur.com/feZqVhM.gif) 
 
 ## Notes
 
