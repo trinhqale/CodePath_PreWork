@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/feZqVhM.gif' title='Video Walkthrough' alt='Video Walkthrough' />
 
-Link to [gif](https://imgur.com/](https://i.imgur.com/feZqVhM.gif/). 
+[Link](https://i.imgur.com/feZqVhM.gif) 
 ## Notes
 
 The hardest part of this assignment is to make sure the setup is correct and fix them. 
