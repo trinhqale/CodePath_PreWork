@@ -24,10 +24,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://im.ezgif.com/tmp/ezgif-1-851f8e6f44.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/feZqVhM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-GIF created with [ezgif](https://ezgif.com). 
+GIF created with [imgur](https://imgur.com/). 
 ## Notes
 
 The hardest part of this assignment is to make sure the setup is correct and fix them. 
