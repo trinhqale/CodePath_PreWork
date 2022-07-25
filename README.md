@@ -18,6 +18,7 @@ The following **optional** features are implemented:
 
 * [x] App background
 * [x] Text Box 
+
 * [x] Cursive font
 
 ## Video Walkthrough
@@ -25,7 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/feZqVhM.gif' title='Video Walkthrough' alt='Video Walkthrough' />
-
+![submission](https://user-images.githubusercontent.com/78519376/180763253-32dc492f-c117-46b2-85a7-8ca0078f45a1.gif)
 The gif might be too big for github README to display. Please use this [Link](https://i.imgur.com/feZqVhM.gif) 
 
 ## Notes
